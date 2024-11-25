@@ -54,4 +54,4 @@ While the model demonstrates reasonable accuracy, future work could improve perf
    ```bash
    git clone https://github.com/MgSO477/DSCI100_Diabetes_classification.git
    cd DSCI100_Diabetes_classification
-2. Open the DSCI100.html file in a browser to view the full analysis and results.
+2. Open the `DSCI100.html` file in a browser to view the full analysis and results.
